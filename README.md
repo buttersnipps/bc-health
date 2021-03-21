@@ -1,12 +1,14 @@
-# bc-health
+# Bc-health
 
 clone repo.
 
 navigate to folder bc-health
 
-run `docker-compose up --build`
+##in order to run 
+`docker-compose up --build`
 
-to stop `docker-compose down`.
+##in order to stop 
+`docker-compose down`.
 
 
 To view db the count in returned on the console.

@@ -5,8 +5,9 @@ clone repo.
 navigate to folder bc-health
 
 ## Setup Required
-Please make sure docker is  installed in your system
-
+Please make sure docker is  installed in your system. 
+Get docker from 
+https://docs.docker.com/docker-for-windows/install-windows-home/
 ## In order to run 
 `docker-compose up --build`
 

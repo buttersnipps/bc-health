@@ -4,6 +4,9 @@ clone repo.
 
 navigate to folder bc-health
 
+## Setup Required
+Please make sure docker is  installed in your system
+
 ## In order to run 
 `docker-compose up --build`
 

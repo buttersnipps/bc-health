@@ -4,10 +4,10 @@ clone repo.
 
 navigate to folder bc-health
 
-##in order to run 
+## In order to run 
 `docker-compose up --build`
 
-##in order to stop 
+## In order to stop 
 `docker-compose down`.
 
 

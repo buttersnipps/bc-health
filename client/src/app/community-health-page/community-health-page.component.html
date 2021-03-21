@@ -1,0 +1,26 @@
+<mat-toolbar>
+<span>Find nearest health center</span>
+</mat-toolbar>
+<form [formGroup]="profileForm" (ngSubmit)="onSubmit()">
+  <div>
+    <label style="margin-top: 23px;">
+      Latitude:
+      <input type="number" formControlName="lat">
+    </label>
+  </div>
+  <div style="margin-top: 23px;">
+    <label>
+      Longitude:
+      <input type="number"formControlName="long">
+    </label>
+  </div>
+  <div style="margin-top: 23px;">
+    <button type="submit" [disabled]="!profileForm.valid">Submit</button>
+  </div>
+    
+</form>
+<div *ngIf="this.notAvailable">
+<span style="color: red;"> The latitude/longitude entered is not valid BC location</span>
+</div>
+<p>{{this.place}}</p>
+ 

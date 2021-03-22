@@ -17,6 +17,14 @@ Confirm installation by running <br />
 ## In order to stop 
 `docker-compose down`.
 
+## Mongo db
+I used Docker windows  to access the mongo  cli <br />
+![docker](https://user-images.githubusercontent.com/16315570/111927619-c0839900-8a87-11eb-9a2c-bfd4b90c4620.PNG) <br />
+Use the following command to access the database. <br />
+`show dbs` <br />
+`use bchealth` <br />
+`show collections` <br />
+`db.bchealth.find().pretty()` <br />
 
 ## To view db the count in returned on the console.
 ![db](https://user-images.githubusercontent.com/16315570/111924110-29174980-8a79-11eb-88a3-4478cbf491e7.PNG)

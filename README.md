@@ -31,7 +31,7 @@ Use the following command to access the database. <br />
 ## DB count also can be viewed in the console.
 ![db](https://user-images.githubusercontent.com/16315570/111924110-29174980-8a79-11eb-88a3-4478cbf491e7.PNG)
 
-##Licence
+##Licence <br />
 `Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at

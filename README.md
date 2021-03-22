@@ -21,6 +21,7 @@ Confirm installation by running <br />
 I used Docker windows  to access the mongo  cli <br />
 ![docker](https://user-images.githubusercontent.com/16315570/111927619-c0839900-8a87-11eb-9a2c-bfd4b90c4620.PNG) <br />
 Use the following command to access the database. <br />
+`mongo` <br />
 `show dbs` <br />
 `use bchealth` <br />
 `show collections` <br />

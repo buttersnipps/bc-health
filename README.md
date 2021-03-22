@@ -12,7 +12,9 @@ Confirm installation by running <br />
 ` docker  -v` <br />
 `docker-compose -v`
 ## In order to run 
-`docker-compose up --build`
+`docker-compose up --build` <br />
+
+Navigate to http://localhost:4200 to view the app.
 
 ## In order to stop 
 `docker-compose down`.

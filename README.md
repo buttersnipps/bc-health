@@ -26,6 +26,7 @@ Use the following command to access the database. <br />
 `use bchealth` <br />
 `show collections` <br />
 `db.bchealth.find().pretty()` <br />
+![db2](https://user-images.githubusercontent.com/16315570/111927921-9088c580-8a88-11eb-93dc-962371f00a45.PNG)
 
 ## To view db the count in returned on the console.
 ![db](https://user-images.githubusercontent.com/16315570/111924110-29174980-8a79-11eb-88a3-4478cbf491e7.PNG)

@@ -11,15 +11,15 @@ https://docs.docker.com/docker-for-windows/install-windows-home/ <br />
 Confirm installation by running <br />
 ` docker  -v` <br />
 `docker-compose -v`
-## In order to run 
+## In order to run container
 `docker-compose up --build` <br />
 
 Navigate to http://localhost:4200 to view the app.
 
-## In order to stop 
+## In order to stop container
 `docker-compose down`.
 
-## Mongo db
+## Viewing the database
 I used Docker Desktop windows application  to access the mongo  cli <br />
 ![docker](https://user-images.githubusercontent.com/16315570/111927619-c0839900-8a87-11eb-9a2c-bfd4b90c4620.PNG) <br />
 Use the following command to access the database. <br />
